@@ -1,5 +1,3 @@
-<hr>
-
 # 🎓 Formação 🎓
 ### ETEC Bento Quirino *(2019-2021)*
 - *Ensino Médio integrado ao Técnico em* **Eletrônica**
@@ -23,5 +21,3 @@
 
 # ✨ Misc ✨
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzoeferreira&layout=compact&theme=dark)
-
-<hr>
