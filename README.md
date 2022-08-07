@@ -1,7 +1,7 @@
 # 🎓 Formação 🎓
 ### ETEC Bento Quirino *(2019-2021)*
 - *Ensino Médio integrado ao Técnico em* **Eletrônica**
-### UNICAMP / Universidade Estadual de Campinas
+### UNICAMP / Universidade Estadual de Campinas *(2022-Presente)*
 - *Engenharia de* **Controle e Automação**
 
 <hr>
